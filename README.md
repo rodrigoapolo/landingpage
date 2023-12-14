@@ -2,7 +2,9 @@
 
 Esta é uma simples landing page criada utilizando HTML5 e CSS3.
 
-![foto do site](exemplo.png)
+![home](home.png)
+![gallery](gallery.png)
+![formulario](formulario.png)
 
 
 ## Conteúdo
